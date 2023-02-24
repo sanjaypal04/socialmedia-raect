@@ -1,0 +1,5 @@
+.homeContainer{
+    display: flex;
+    min-width: 100px;
+    height: calc(100vh-50px);
+}
